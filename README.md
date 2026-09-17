@@ -1,4 +1,4 @@
-# Thread Studio
+# Youtube Studio
 
 HTML·CSS·JavaScript 화면과 Python 표준 라이브러리 기반 로컬 서버입니다. 현재 버전은 **자동화 운영 화면과 로컬 저장 기반**입니다. 실제 급상승 콘텐츠 수집·AI 분석·영상 렌더링·Threads 게시·자동 댓글은 아직 구현되지 않았습니다. 연결되지 않은 작업을 실행 완료로 표시하지 않습니다.
 
